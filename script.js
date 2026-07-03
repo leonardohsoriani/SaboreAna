@@ -1,0 +1,1 @@
+let q=1;const num="5543991321383";function alt(v){q=Math.max(1,q+v);qtd.textContent=q;upd()}function upd(){pedido.href=`https://wa.me/${num}?text=${encodeURIComponent("Olá! Gostaria de pedir "+q+" pudim(ns).")}`}upd();
