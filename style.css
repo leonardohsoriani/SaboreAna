@@ -1,5 +1,2 @@
 body{margin:0;font-family:Arial;background:#fff8f2;color:#5b341d}.hero{height:80vh;background:linear-gradient(rgba(0,0,0,.35),rgba(0,0,0,.35)),url(img/pudim1.jpg) center/cover;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff}h1{font-size:4rem;margin:0}.btn{background:#25d366;color:#fff;padding:16px 28px;border-radius:40px;text-decoration:none;font-weight:bold}.gal{display:flex;gap:20px;justify-content:center;flex-wrap:wrap}.gal img{width:320px;border-radius:16px;box-shadow:0 8px 20px #0003}.q{display:flex;justify-content:center;align-items:center;gap:20px;font-size:2rem}button{font-size:2rem}section{padding:50px;text-align:center}
-.preco p{font-size:1.3rem;margin:8px 0}.preco strong{color:#ffd166}footer {
-    text-align: center;
-    padding: 20px 0;
-}
+.preco p{font-size:1.3rem;margin:8px 0}.preco strong{color:#ffd166}
